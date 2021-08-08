@@ -1,5 +1,2 @@
-### Hi there 👋
-
-- 🔭 My future dream is character designer or emoticon designer.
-- 🌱 I'm currently learning Emoticon Design and Illusteration.
-- 👯 I'm interested in listening to music. 
+![staruniversal github stats](https://github-readme-stats.vercel.app/api?username=staruniversal&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staruniversal&langs_count=5&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/staruniversal/github-readme-stats)
